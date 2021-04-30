@@ -4,3 +4,14 @@
     color: #D9DD08;
     text-shadow: 4px 4px 0 black;
 }
+
+.title.-second{
+    color: #fff;
+    text-align: center;
+    text-shadow: none;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 640px;
+   
+}
