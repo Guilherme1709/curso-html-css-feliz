@@ -1,12 +1,12 @@
 .main-button {
     display: inline-block;
-    background-color: #D9DD08;
+    background-color: #fff;
     box-shadow: 5px 5px 0 black;
     padding: 18px 20px;
     margin-right: 0;
     transition: transform 200ms cubic-bezier(.45,.97,.68,2.48);
     font-size: 20px;
-    color: #fff;
+    color: #000;
     text-decoration: none;
 }
 
